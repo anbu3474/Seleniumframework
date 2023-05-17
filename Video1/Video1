@@ -53,8 +53,10 @@ Push the Code to Git & GitHub Repository
 
 4)
      git status (check the status of the files commited /notcommited
-     git add -A
-     git
+     git add -A (Add all the files to staging area)
+     git commit -m  "first commit" ( Commit the code into git repository( local rep)
+5) Push the code form git --> github repository
+     git push -u origin master
 
 
 
