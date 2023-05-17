@@ -1,0 +1,145 @@
+2023-05-12 07:42:15,508: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-12 07:42:15,508: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-12 07:42:15,508: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-12 07:42:15,508: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-12 07:42:15,508: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-12 07:42:17,150: INFO: ************* SearchCustomerByEmail_004 **********
+2023-05-12 07:42:17,150: INFO: ************* SearchCustomerByEmail_004 **********
+2023-05-12 07:42:17,150: INFO: ************* SearchCustomerByEmail_004 **********
+2023-05-12 07:42:17,150: INFO: ************* SearchCustomerByEmail_004 **********
+2023-05-12 07:42:17,150: INFO: ************* SearchCustomerByEmail_004 **********
+2023-05-12 07:42:23,605: INFO: ************* Login succesful **********
+2023-05-12 07:42:23,605: INFO: ************* Login succesful **********
+2023-05-12 07:42:23,605: INFO: ************* Login succesful **********
+2023-05-12 07:42:23,605: INFO: ************* Login succesful **********
+2023-05-12 07:42:23,605: INFO: ************* Login succesful **********
+2023-05-12 07:42:23,613: INFO: ******* Starting Search Customer By Email **********
+2023-05-12 07:42:23,613: INFO: ******* Starting Search Customer By Email **********
+2023-05-12 07:42:23,613: INFO: ******* Starting Search Customer By Email **********
+2023-05-12 07:42:23,613: INFO: ******* Starting Search Customer By Email **********
+2023-05-12 07:42:23,613: INFO: ******* Starting Search Customer By Email **********
+2023-05-12 07:42:24,740: INFO: ************* searching customer by emailID **********
+2023-05-12 07:42:24,740: INFO: ************* searching customer by emailID **********
+2023-05-12 07:42:24,740: INFO: ************* searching customer by emailID **********
+2023-05-12 07:42:24,740: INFO: ************* searching customer by emailID **********
+2023-05-12 07:42:24,740: INFO: ************* searching customer by emailID **********
+2023-05-12 07:42:30,273: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-12 07:42:30,273: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-12 07:42:30,273: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-12 07:42:30,273: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-12 07:42:30,273: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-12 07:42:30,293: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-12 07:42:30,293: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-12 07:42:30,293: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-12 07:42:30,293: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-12 07:42:30,293: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-12 07:42:32,075: INFO: ************* SearchCustomerByName_005 **********
+2023-05-12 07:42:32,075: INFO: ************* SearchCustomerByName_005 **********
+2023-05-12 07:42:32,075: INFO: ************* SearchCustomerByName_005 **********
+2023-05-12 07:42:32,075: INFO: ************* SearchCustomerByName_005 **********
+2023-05-12 07:42:32,075: INFO: ************* SearchCustomerByName_005 **********
+2023-05-12 07:42:36,361: INFO: ************* Login succesful **********
+2023-05-12 07:42:36,361: INFO: ************* Login succesful **********
+2023-05-12 07:42:36,361: INFO: ************* Login succesful **********
+2023-05-12 07:42:36,361: INFO: ************* Login succesful **********
+2023-05-12 07:42:36,361: INFO: ************* Login succesful **********
+2023-05-12 07:42:36,361: INFO: ******* Starting Search Customer By Name **********
+2023-05-12 07:42:36,361: INFO: ******* Starting Search Customer By Name **********
+2023-05-12 07:42:36,361: INFO: ******* Starting Search Customer By Name **********
+2023-05-12 07:42:36,361: INFO: ******* Starting Search Customer By Name **********
+2023-05-12 07:42:36,361: INFO: ******* Starting Search Customer By Name **********
+2023-05-12 07:42:39,430: INFO: ************* searching customer by Name **********
+2023-05-12 07:42:39,430: INFO: ************* searching customer by Name **********
+2023-05-12 07:42:39,430: INFO: ************* searching customer by Name **********
+2023-05-12 07:42:39,430: INFO: ************* searching customer by Name **********
+2023-05-12 07:42:39,430: INFO: ************* searching customer by Name **********
+2023-05-12 07:42:44,868: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2023-05-12 07:42:44,868: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2023-05-12 07:42:44,868: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2023-05-12 07:42:44,868: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2023-05-12 07:42:44,868: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2023-05-12 07:42:44,892: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-12 07:42:44,892: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-12 07:42:44,892: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-12 07:42:44,892: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-12 07:42:44,892: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-12 07:42:46,509: INFO: ********************* Test_001_Login ***********************
+2023-05-12 07:42:46,509: INFO: ********************* Test_001_Login ***********************
+2023-05-12 07:42:46,509: INFO: ********************* Test_001_Login ***********************
+2023-05-12 07:42:46,509: INFO: ********************* Test_001_Login ***********************
+2023-05-12 07:42:46,509: INFO: ********************* Test_001_Login ***********************
+2023-05-12 07:42:46,509: INFO: *************** Verifying Home Page Title ******************
+2023-05-12 07:42:46,509: INFO: *************** Verifying Home Page Title ******************
+2023-05-12 07:42:46,509: INFO: *************** Verifying Home Page Title ******************
+2023-05-12 07:42:46,509: INFO: *************** Verifying Home Page Title ******************
+2023-05-12 07:42:46,509: INFO: *************** Verifying Home Page Title ******************
+2023-05-12 07:42:47,942: INFO: ************** Home page title test is passed ********************
+2023-05-12 07:42:47,942: INFO: ************** Home page title test is passed ********************
+2023-05-12 07:42:47,942: INFO: ************** Home page title test is passed ********************
+2023-05-12 07:42:47,942: INFO: ************** Home page title test is passed ********************
+2023-05-12 07:42:47,942: INFO: ************** Home page title test is passed ********************
+2023-05-12 07:42:48,048: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-12 07:42:48,048: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-12 07:42:48,048: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-12 07:42:48,048: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-12 07:42:48,048: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-12 07:42:49,619: INFO: ************** Verifying Login Test ********************
+2023-05-12 07:42:49,619: INFO: ************** Verifying Login Test ********************
+2023-05-12 07:42:49,619: INFO: ************** Verifying Login Test ********************
+2023-05-12 07:42:49,619: INFO: ************** Verifying Login Test ********************
+2023-05-12 07:42:49,619: INFO: ************** Verifying Login Test ********************
+2023-05-12 07:42:52,962: INFO: ************** Login test is passed ********************
+2023-05-12 07:42:52,962: INFO: ************** Login test is passed ********************
+2023-05-12 07:42:52,962: INFO: ************** Login test is passed ********************
+2023-05-12 07:42:52,962: INFO: ************** Login test is passed ********************
+2023-05-12 07:42:52,962: INFO: ************** Login test is passed ********************
+2023-05-12 07:42:53,097: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-12 07:42:53,097: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-12 07:42:53,097: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-12 07:42:53,097: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-12 07:42:53,097: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-12 07:42:54,686: INFO: *************** Test_002_DDT_Login ***********************
+2023-05-12 07:42:54,686: INFO: *************** Test_002_DDT_Login ***********************
+2023-05-12 07:42:54,686: INFO: *************** Test_002_DDT_Login ***********************
+2023-05-12 07:42:54,686: INFO: *************** Test_002_DDT_Login ***********************
+2023-05-12 07:42:54,686: INFO: *************** Test_002_DDT_Login ***********************
+2023-05-12 07:42:54,686: INFO: *************** Verifying Login DDT Test ********************
+2023-05-12 07:42:54,686: INFO: *************** Verifying Login DDT Test ********************
+2023-05-12 07:42:54,686: INFO: *************** Verifying Login DDT Test ********************
+2023-05-12 07:42:54,686: INFO: *************** Verifying Login DDT Test ********************
+2023-05-12 07:42:54,686: INFO: *************** Verifying Login DDT Test ********************
+2023-05-12 07:43:04,737: INFO: *************** Login test is Passed ********************
+2023-05-12 07:43:04,737: INFO: *************** Login test is Passed ********************
+2023-05-12 07:43:04,737: INFO: *************** Login test is Passed ********************
+2023-05-12 07:43:04,737: INFO: *************** Login test is Passed ********************
+2023-05-12 07:43:04,737: INFO: *************** Login test is Passed ********************
+2023-05-12 07:43:12,038: INFO: *************** Login test is Passed ********************
+2023-05-12 07:43:12,038: INFO: *************** Login test is Passed ********************
+2023-05-12 07:43:12,038: INFO: *************** Login test is Passed ********************
+2023-05-12 07:43:12,038: INFO: *************** Login test is Passed ********************
+2023-05-12 07:43:12,038: INFO: *************** Login test is Passed ********************
+2023-05-12 07:43:17,690: INFO: *************** Login test is Passed ********************
+2023-05-12 07:43:17,690: INFO: *************** Login test is Passed ********************
+2023-05-12 07:43:17,690: INFO: *************** Login test is Passed ********************
+2023-05-12 07:43:17,690: INFO: *************** Login test is Passed ********************
+2023-05-12 07:43:17,690: INFO: *************** Login test is Passed ********************
+2023-05-12 07:43:23,554: INFO: *************** Login test is Passed ********************
+2023-05-12 07:43:23,554: INFO: *************** Login test is Passed ********************
+2023-05-12 07:43:23,554: INFO: *************** Login test is Passed ********************
+2023-05-12 07:43:23,554: INFO: *************** Login test is Passed ********************
+2023-05-12 07:43:23,554: INFO: *************** Login test is Passed ********************
+2023-05-12 07:43:23,554: INFO: *************** Login DDT test Passed *****************
+2023-05-12 07:43:23,554: INFO: *************** Login DDT test Passed *****************
+2023-05-12 07:43:23,554: INFO: *************** Login DDT test Passed *****************
+2023-05-12 07:43:23,554: INFO: *************** Login DDT test Passed *****************
+2023-05-12 07:43:23,554: INFO: *************** Login DDT test Passed *****************
+2023-05-12 07:43:23,663: INFO: *************** End of Login DDT Test *******************
+2023-05-12 07:43:23,663: INFO: *************** End of Login DDT Test *******************
+2023-05-12 07:43:23,663: INFO: *************** End of Login DDT Test *******************
+2023-05-12 07:43:23,663: INFO: *************** End of Login DDT Test *******************
+2023-05-12 07:43:23,663: INFO: *************** End of Login DDT Test *******************
+2023-05-12 07:43:23,663: INFO: *************** Completed Test_002_DDT_Login **************
+2023-05-12 07:43:23,663: INFO: *************** Completed Test_002_DDT_Login **************
+2023-05-12 07:43:23,663: INFO: *************** Completed Test_002_DDT_Login **************
+2023-05-12 07:43:23,663: INFO: *************** Completed Test_002_DDT_Login **************
+2023-05-12 07:43:23,663: INFO: *************** Completed Test_002_DDT_Login **************

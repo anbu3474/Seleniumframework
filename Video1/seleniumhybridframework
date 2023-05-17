@@ -1,0 +1,126 @@
+Selenium Hybrid Framework
+(Python, Selenium, Pytest, Page Object Model, HTML Reports)
+Step 1: Create new Projects &install Required Packages/Plugins
+   # Selenium: Selenium Libraries
+   # Pytest: Python UnitTest framework
+   # Pytest-html: Py Test HTML Reports
+   # Pytest-xdist: Run Tests Parallel
+   # Openpyxl: MS Excal Support
+   Allure-pytest: to generate allure reports
+Step 2: Create Folder Structure
+            Project Name
+                  |
+                  pageObjects(Package)
+                  |
+                  testCases(Package)
+                  |
+                  utilities(Package)
+                  |
+                  TestData(Folder)
+                  |
+                  Configurations(Folder)
+                  |
+                  Logs(Folder)
+                  |
+                  Screenshots(Folder)
+                  |
+                  Reports(Folder)
+                  |
+                  Run.bat
+
+Step 3: Automating Login Test Case
+        3.1: Create Loginpage Object Class under"PageOjects"
+        3.2: Create LoginTest Under "testCases"
+        3.3: Create conftest under"testCases"
+
+Step 4: capture screenshots on failures
+        4.1: Update Login Test with Screenshots under"testCases"
+
+Step 5: Read common values from ini file
+        5.1: Add "Config.ini"file in "Configuration" Folder
+        5.2: Create "readproperties.py" utility file under utilities package to read common data.
+        5.3: Replace hard coded values in Login test case.
+
+Step 6: Adding logs to test case
+        6.1: Add custologger.py under utilities package.
+        6.2: Add logs to Login test case.
+
+Step 7: Run Tests on Desired Browser/Cross Browser/parallel
+        7.1: Update contest.py with required Fixtures which will accept command line
+             argument(browser name).
+        7.2: Pass browser name as argument in command line.
+
+To Run tests on desired browser
+        pytest -s -v testCases/test_login.py --browser chrome
+        pytest -s -v testCases/test_login.py --browser firefox
+To Run tests parallel
+        pytest -s -v -n2 testCases/test_login.py --browser chrome
+        pytest -s -v -n2 testCases/test_login.py --browser firefox
+
+Step 8: Generate pytest HTML Reports
+        8.1: Update conftest.py with pytest hooks
+        8.2: To Generate HTML report run below command:
+        pytest -s -v -n2 --html=reports\report.html testCases/test_login.py --browser chrome
+        Alternate = pytest  -v -n2 --html=reports\report.html testCases/test_login.py --browser chrome
+
+Step 9: Automating Data Driven Test Case
+        9.1: Prepare test data in Excel sheet, place the excel file inside the TestData folder.
+        9.2: Create"ExcelUtils.py"utility under utilities package.
+        9.3: Create LoginDataDrivenTest under testCases.
+Step 10: Adding new testcases
+        10.1: Add new customer
+        10.2: Search customer by email
+        10.3: Search customer by name
+
+Step 11: Grouping Tests
+        11.1: Grouping markers(Add markers to every test method)
+              @pytest.mark.sanity
+              @pytest.mark.regression
+
+        11.2: Add Marker entries in pytest.ini file
+              pytest.ini
+              [pytest]
+              markers=
+              sanity
+              regression
+        11.3: Select groups ay run time
+              -m "sanity"
+              -m "REGRESSION"
+              -m "sanity and regression"
+              -m "sanity or regression"
+
+              Run Command:
+              ------------
+              pytest -s -v -m "sanity or regression" --html=./Reports/report.html TestCases/ --browser chrome
+
+Step 12: Run Tests in Command & run.batfile.
+        12.1: Create run.bat file
+              Run Command:
+              ------------
+              pytest -s -v -m "sanity" --html=./Reports/report.html TestCases/ --browser chrome
+        12.2: Open Command prompt as Administrator and then run run,bat file
+
+Step 13: Push the Code to Git & Github Repository
+
+        1st Round
+        ---------
+        Intial steps (only one time)
+            1) git init --> Create an Empty git respository(local respository)
+            2) git remot add origin
+        "https://github.com/pavanonlinetraining/nopCommerce_Hybrid.git"
+
+        Before doing commit first time we need to execute these below commands
+            git config --global user.name"pavan"
+            git config user.email"pavanoltraining@gmail.com"
+
+            3) git status
+            4) git add -A --> add filed in to staging/indexing area
+            5) git commit  -m "comment"
+            6) git push -u origin master
+
+        2nd Round
+        ---------
+
+
+
+

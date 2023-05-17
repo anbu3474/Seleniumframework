@@ -1,0 +1,69 @@
+Selenium Hybrid Framework
+(Python, Selenium, Pytest, page object Model, HTML Reports)
+----------------------------------------------------------
+What is framework?
+Framework ia an organized way of maintaining automation task.
+In the framework all hte files will communicate each other to perform certain task.
+
+Objectives/Goals :
+------------------
+1) Re-usability
+2) maintainability
+
+Types
+------
+1) Built-in frameworks
+        pytest, robotframework, unittest etc....
+
+2) Customized/User defined frameworks
+        Datadriven framework, keyword driven framework, Hybrid driven framework
+
+Phases
+-------
+1) Analyze application, technology & skill set of team, choose test cases
+100 TC's....
+Re-test cases(test data)
+Re-gression cases
+TC's can be automatable
+
+100 % automation ???
+
+2) Design & implementation of framework
+
+3) Execution
+4) Maintanance(Version control system)
+
+eCommerce Application.....
+
+Frontend - https://demo.nopcommerce.com/
+Backend  - https://admin-demo.nopcommerce.com/login
+
+Push the Code to Git & GitHub Repository
+-----------------------------------------
+
+1) Create local git repository for your project
+    git init   ---. Create an Empty git repository (Local repository)
+
+2) Connect your local git(local rep) with Github (global)
+     git remote add origin https://github.com/anbu3474/Seleniumframework.git
+
+3) Before doing commit first time we need to execute these below commands
+     git config --global user.name "anbu3474"
+     git config --global user.email "anbu3474@gmail.com"
+
+4)
+     git status (check the status of the files commited /notcommited
+     git add -A
+     git
+
+
+
+
+
+
+
+
+
+
+
+
